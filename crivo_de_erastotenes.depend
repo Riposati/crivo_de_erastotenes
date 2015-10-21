@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445455895 source:c:\users\gurip_000\desktop\crivo_de_erastotenes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
